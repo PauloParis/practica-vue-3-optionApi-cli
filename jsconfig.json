@@ -1,0 +1,7 @@
+{
+    "include": [
+      "./src/**/*"
+    ]
+}
+
+// udemy vue sección 13 video 187
